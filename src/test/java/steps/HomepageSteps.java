@@ -18,7 +18,7 @@ public class HomepageSteps {
     private WebDriver driver;
 
     @Given("I launch chrome driver")
-    public void iLaunchChromeDriver() {
+    public void qiLaunchChromeDriver() {
             System.setProperty("webdriver.chrome.driver", "C:\\Users\\sirun\\Desktop\\exe\\chromedriver.exe");
             driver = new ChromeDriver();
     }
