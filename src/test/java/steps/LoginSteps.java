@@ -57,5 +57,6 @@ public class LoginSteps {
     @After()
     public void tearDown() {
         driver.quit();
+        System.out.println("Quit");
     }
 }

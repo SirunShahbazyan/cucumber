@@ -15,6 +15,7 @@ import io.cucumber.junit.CucumberOptions;
         monochrome = true)
 
 public class TestRunnerCucumber {
-
+    System.out.print("7896");
+    System.out.print("1478");
 }
 
