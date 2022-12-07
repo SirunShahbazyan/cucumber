@@ -58,9 +58,5 @@ public class LoginSteps {
     public void tearDown() {
         driver.quit();
         System.out.println("Quit");
-<<<<<<< HEAD
-
-=======
->>>>>>> c22c40004f39600d8df982f9200c6862cfbcb826
     }
 }
